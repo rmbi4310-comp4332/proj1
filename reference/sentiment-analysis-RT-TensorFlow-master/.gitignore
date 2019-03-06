@@ -1,0 +1,9 @@
+txt_sentoken
+*.npy
+poldata.README.2.0
+tensorboard
+models
+tb.tar.gz
+op.txt
+models2.tar.gz
+.ipynb_checkpoints
