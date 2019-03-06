@@ -1,0 +1,16 @@
+# git ignore file
+
+# documents
+*.ppt
+*.pptx
+*.pdf
+
+# prediction data
+pre.csv
+data/pre.csv
+
+# test files
+test.py
+data/t.csv
+
+
