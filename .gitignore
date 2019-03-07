@@ -1,5 +1,9 @@
 # git ignore file
 
+# vs project dir
+.vscode
+__pycache__
+
 # documents
 *.ppt
 *.pptx
@@ -13,4 +17,5 @@ data/pre.csv
 test.py
 data/t.csv
 
-
+# annoying mac sys file
+.DS_Store
