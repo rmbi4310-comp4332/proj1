@@ -88,7 +88,7 @@ def load_data(input_length):
 
     # Load testing data
     test_id_list, _, test_data_matrix, _ = read_data("data/test.csv", input_length, vocab=vocab)
-    
+
     print("Vocabulary Size:", len(vocab))
     print("Training Set Size:", len(train_id_list))
     print("Validation Set Size:", len(valid_id_list))
